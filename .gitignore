@@ -1,0 +1,19 @@
+# Competition data and installed libs (download yourself; never redistribute)
+data/
+.pylibs/
+
+# Generated Kaggle kernels and run outputs
+kaggle/
+runs/
+ref/
+
+# Local session notes
+NEXT_CHAT_PROMPT.md
+
+# Python / OS
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
